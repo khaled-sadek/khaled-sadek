@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 - 👋 Hi, I’m @khaled-sadek
 - 👨‍💻 Software enginner since 2003
 - 👨‍👧 Father since 2019
